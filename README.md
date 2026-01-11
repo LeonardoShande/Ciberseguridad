@@ -2,11 +2,11 @@
 Aquí podrás encontrar todo acerca de la ciberseguridad, desde contenido teórico hasta ejercicios de práctica 🙌🏻🌟
 
 # Estructura
-[Recursos📦](./recursos). 
+### 1) [Recursos📦](./recursos.md). 
 
-[Fundamental👨🏻‍💻](./Qué-es-la-ciberseguridad?-md.)
+### 2) [Fundamental👨🏻‍💻](./Qué-es-la-ciberseguridad?-md.)
 
-[Texto que se ve](./Nombre-Exacto-De-La-Carpeta)
+### 3) [Ejercicios](./Ejercicio s.md)
 
 
 ### 🤝 Cómo contribuir a este Proyecto
