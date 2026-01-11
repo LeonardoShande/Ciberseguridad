@@ -4,7 +4,7 @@ Aquí podrás encontrar todo acerca de la ciberseguridad, desde contenido teóri
 # Estructura
 ### 1) [Recursos📦](./Recursos.md)
 
-### 2) [Fundamental👨🏻‍💻](./Qué es la ciberseguridad ?.md.)
+### 2) [Fundamental👨🏻‍💻](./Qué-es-la ciberseguridad-?.md)
 
 ### 3) [Ejercicios📓](./Ejercicios.md)
 
