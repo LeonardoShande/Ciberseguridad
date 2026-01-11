@@ -6,7 +6,7 @@ Aquí podrás encontrar todo acerca de la ciberseguridad, desde contenido teóri
 
 ### 2) [Fundamental👨🏻‍💻](./Qué-es-la-ciberseguridad?-md.)
 
-### 3) [Ejercicios](./Ejercicio s.md)
+### 3) [Ejercicios](./Ejercicios.md).
 
 
 ### 🤝 Cómo contribuir a este Proyecto
