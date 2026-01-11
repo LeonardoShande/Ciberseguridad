@@ -1,7 +1,15 @@
 # Ciberseguridad
 Aquí podrás encontrar todo acerca de la ciberseguridad, desde contenido teórico hasta ejercicios de práctica 🙌🏻🌟
 
-# 🤝 Cómo contribuir a este Proyecto
+# Estructura
+[Recursos📦](./recursos). 
+
+[Fundamental👨🏻‍💻](./Qué-es-la-ciberseguridad?-md.)
+
+[Texto que se ve](./Nombre-Exacto-De-La-Carpeta)
+
+
+### 🤝 Cómo contribuir a este Proyecto
 
 ¡Gracias por tu interés en contribuir! Este repositorio es un portafolio de Ciberseguridad y cualquier mejora, corrección o nueva herramienta es bienvenida.
 
@@ -21,12 +29,7 @@ Si encuentras una vulnerabilidad crítica en alguna de las herramientas de este 
 ## 📝 Estándares de Commits (Reglas de Oro)
 Para mantener el historial limpio y profesional, seguimos la convención de **Conventional Commits**.
 
-### Estructura
-`[Recursos📦](./recursos)
 
-[Fundamental👨🏻‍💻](./Qué-es-la-ciberseguridad?)
-
-[Texto que se ve](./Nombre-Exacto-De-La-Carpeta)`
 
 ### Tabla de Referencia
 
